@@ -1,18 +1,18 @@
 ## Hi there 👋
 # My name is Adesayo Bankole
 ### Cybersecurity Analyst with experience in SOC operations, log analysis, SIEM monitoring, and security automation. I work on identifying threats, mitigating vulnerabilities, and developing scripts and tools to support defensive operations.
-### �� My Work
+### My Work
 - [LinkedIn Profile] https://linkedin.com
-- �� [Resume](#) (Upload your resume as a file to this repository or link to
+- [Resume](#) (Upload your resume as a file to this repository or link to
 an external site)
-### ��️ Skills
+### Skills
 - **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
 Risk Assessments, Network Security, Endpoint security,
 - **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
-### �� GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-
 stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
-### ✨ Fun Fact
+### Fun Fact
 I am very intentional
 
 ! <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
