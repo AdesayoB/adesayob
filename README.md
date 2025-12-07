@@ -15,6 +15,9 @@ stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical
 ### ✨ Fun Fact
 I am very intentional
 
+! https://img.shields.io/badge/:badgeContent
+
+
 <!--
 **AdesayoB/adesayob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
