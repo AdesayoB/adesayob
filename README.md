@@ -3,6 +3,9 @@
 ## Hi there 👋
 # My name is Adesayo Bankole
 ### Cybersecurity Analyst with experience in SOC operations, log analysis, SIEM monitoring, and security automation. I work on identifying threats, mitigating vulnerabilities, and developing scripts and tools to support defensive operations.
+
+![pexels-pixabay-356056](https://github.com/user-attachments/assets/c2823327-20d5-4cbe-bd64-5dfbbf737430)
+
 ### My Work
 - [LinkedIn Profile] https://linkedin.com
 - [Resume](#) (Upload your resume as a file to this repository or link to
@@ -19,7 +22,7 @@ I am very intentional
 
 
 
-![pexels-pixabay-356056](https://github.com/user-attachments/assets/c2823327-20d5-4cbe-bd64-5dfbbf737430)
+
 
 
 
