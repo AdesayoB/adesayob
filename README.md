@@ -15,7 +15,8 @@ stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical
 ### Fun Fact
 I am very intentional
 
-! <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+! ![Static Badge](https://img.shields.io/badge/ACTIVE-ON)
+
 
 
 
