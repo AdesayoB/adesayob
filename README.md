@@ -1,3 +1,5 @@
+! ![Static Badge](https://img.shields.io/badge/ACTIVE-ON)
+
 ## Hi there 👋
 # My name is Adesayo Bankole
 ### Cybersecurity Analyst with experience in SOC operations, log analysis, SIEM monitoring, and security automation. I work on identifying threats, mitigating vulnerabilities, and developing scripts and tools to support defensive operations.
