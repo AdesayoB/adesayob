@@ -1,4 +1,4 @@
-! ![Static Badge](https://img.shields.io/badge/ACTIVE-ON)
+ ![Static Badge](https://img.shields.io/badge/ACTIVE-ON)
 
 ## Hi there 👋
 # My name is Adesayo Bankole
